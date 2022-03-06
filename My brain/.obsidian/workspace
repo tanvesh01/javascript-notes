@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "caa9f6fb4d96fe27",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0b5382a85839fbe",
+        "type": "leaf",
+        "dimension": 78.65646258503402,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript Course files/Array.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "4bb63a9139fdf93f",
+        "type": "leaf",
+        "dimension": 21.343537414965986,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8cabdf515d9a951",
+    "type": "split",
+    "children": [
+      {
+        "id": "f104de16de47f4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52c49dcd4e12d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "36e63c15aa271299",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "redu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "daa55180f0cc0fc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bda8043e4cdac667",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ae5ef980fd31e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript Course files/Array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c0b5382a85839fbe",
+  "lastOpenFiles": [
+    "Javascript Course files/Array.md",
+    "conflict-files-obsidian-git.md"
+  ]
+}

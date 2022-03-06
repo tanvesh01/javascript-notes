@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "dd97489008ec14ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8bcdede01c31c7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "My brain/Javascript Course files/API and CORS.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a6dbe749a81a66a",
+    "type": "split",
+    "children": [
+      {
+        "id": "153922cd1f5929bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6e687904730eac3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c084c683009dc11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 452.0078125
+  },
+  "right": {
+    "id": "2aa07a524c4c323f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e83a6f7bac1d026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eead53c70b6babd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My brain/Javascript Course files/API and CORS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c8bcdede01c31c7b",
+  "lastOpenFiles": [
+    "My brain/Javascript Course files/API and CORS.md",
+    "My brain/Javascript Course files/Array.md",
+    "My brain/Javascript Course files/Debugging.md",
+    "My brain/Javascript Course files/DOM.md",
+    "Pasted image 20220218175043.png",
+    "Pasted image 20220218162125.png",
+    "Pasted image 20220212132704.png",
+    "Pasted image 20220211173229.png",
+    "My brain/Javascript Course files/Variables and Statements.md",
+    "My brain/Javascript Course files/Types.md"
+  ]
+}
